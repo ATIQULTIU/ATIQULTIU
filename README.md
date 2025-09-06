@@ -78,7 +78,12 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
-
+## 🎨 Creative & Fun
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=atiqultiu&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
+  <br/><br/>
+  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="200" />
+</div>
 ---
 
 ## 👀 Visitors Count
