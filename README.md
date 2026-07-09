@@ -353,28 +353,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=ATIQULTIU&th
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=ATIQULTIU&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📌 Most Used Languages
-
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATIQULTIU&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # ⚡ GitHub Summary
 
 <div align="center">
@@ -410,16 +388,6 @@ width="47%"/>
 
 </div>
 
----
-
-# 💻 Contribution Overview
-
-<div align="center">
-
-<img
-src="https://github-contributor-stats.vercel.app/api?username=ATIQULTIU&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</div>
 
 ---
 
@@ -427,8 +395,10 @@ src="https://github-contributor-stats.vercel.app/api?username=ATIQULTIU&limit=5&
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api/wakatime?username=ATIQULTIU&theme=tokyonight"/>
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=ATIQULTIU&theme=tokyo-night&hide_border=true&area=true&custom_title=Atik's%20Coding%20Journey"
+alt="GitHub Coding Activity"
+/>
 
 </div>
 
@@ -536,16 +506,6 @@ src="https://github-readme-stats.vercel.app/api/wakatime?username=ATIQULTIU&them
 | 🤖 AI & ML Expert | 🎯 |
 | ☁️ AWS Cloud Certified | 🎯 |
 | 📱 Flutter Developer | 🎯 |
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/ATIQULTIU/ATIQULTIU/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
