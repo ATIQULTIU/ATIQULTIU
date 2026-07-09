@@ -21,7 +21,19 @@
 
 <img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-🎓 B.Sc. in Computer Science & Engineering
+# 🎓 Education
+
+<div align="left">
+
+🇮🇳 **Bachelor of Technology/(B.Sc.) in Computer Science & Engineering**  
+🏛️ Techno India University, Kolkata, India
+
+<br>
+
+🇧🇩 **Diploma in Engineering in Computer Technology**  
+🏛️ Bangladesh
+
+</div>
 
 💻 Passionate Software Engineer from Bangladesh 🇧🇩
 
